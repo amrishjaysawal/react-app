@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/amrishjaysawal/react-app.git/static/css/main.e6c13ad2.css",
+    "main.js": "/amrishjaysawal/react-app.git/static/js/main.bec3a4c0.js",
+    "static/js/453.d44e7683.chunk.js": "/amrishjaysawal/react-app.git/static/js/453.d44e7683.chunk.js",
+    "index.html": "/amrishjaysawal/react-app.git/index.html",
+    "main.e6c13ad2.css.map": "/amrishjaysawal/react-app.git/static/css/main.e6c13ad2.css.map",
+    "main.bec3a4c0.js.map": "/amrishjaysawal/react-app.git/static/js/main.bec3a4c0.js.map",
+    "453.d44e7683.chunk.js.map": "/amrishjaysawal/react-app.git/static/js/453.d44e7683.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bec3a4c0.js"
+  ]
+}
